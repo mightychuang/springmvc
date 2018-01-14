@@ -5,7 +5,7 @@ import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.stereotype.Component;
 
-import com.zhy.Person;
+import com.zhy.entity.Person;
 //@Component
 public class MyBeanPostProcessor implements BeanPostProcessor {
 

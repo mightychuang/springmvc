@@ -1,4 +1,4 @@
-package com.zhy;
+package com.zhy.entity;
 
 import org.springframework.beans.factory.BeanNameAware;
 
