@@ -12,7 +12,7 @@ import static com.zhy.JSONResult.*;
 @RestController
 public class TestController {
 
-	private static final UserService userService = ApplicationContextUtil.getBean(UserService.class);
+//	private static final UserService userService = ApplicationContextUtil.getBean(UserService.class);
 	
 	@RequestMapping("/user/name")
 	public JSONResult test(){
